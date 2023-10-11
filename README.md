@@ -17,7 +17,7 @@ Hosting services : Heroku, Netlify, pythonanywhere
 Beside programming, I also do content management with WordPress. I've done several e-commerce and corporate website with WordPress.
 
 Links : 
-Web profile : https://sazidahmed.tk/
+Web profile : https://sazidahmed.com/
 Linkedin : https://www.linkedin.com/in/sazidahmed-codeman/
 Github :  https://github.com/SazidAhmed
 Stack Overflow : https://stackoverflow.com/users/14216560/sazid-ahmed
